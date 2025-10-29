@@ -1,4 +1,4 @@
-# model_parser_agent
+# Model Parser Agent
 ## Introduction
 This is python AI agent that will use model_parser_mcp tool at `MCP_URL`.
 
